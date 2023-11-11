@@ -2,7 +2,10 @@
 
 ## Content
 
----
+-   [1. What is cloud computing](https://github.com/RukshanDias/Cloud-Computing#1-what-is-cloud-computing)
+    -   [1.1 Cloud service models](https://github.com/RukshanDias/Cloud-Computing#11-cloud-service-models)
+    -   [1.2 Cloud deployment models](https://github.com/RukshanDias/Cloud-Computing#12-cloud-deployment-models)
+-   [2. Cloud computing architecture](https://github.com/RukshanDias/Cloud-Computing#2-cloud-computing-architecture)
 
 ## 1. What is Cloud computing
 
@@ -69,10 +72,12 @@
 -   These can be access privately within an organization.
 -   eg: AWS, VMware
 
-### Hybrid Cloud
+#### Hybrid Cloud
 
 -   Consists the functionality of both public & private.
 -   eg: NASA use private cloud to store sensitive info & public cloud for others.
+
+---
 
 ## 2. Cloud computing architecture
 
