@@ -20,21 +20,25 @@
         -   etc.
 -   ![Cloud service models](imgs/Cloud%20service%20models.png)
 
-### IaaS
+### 1.1 Cloud service models:
+
+#### IaaS
 
 -   This provide infrastructures as a service.
 -   infrastructures are virtual machine, Storage, cpu. gpu, memory, load balancing, network, disk, etc.
 -   This is the base of cloud-computing.
 
-### PaaS
+#### PaaS
 
 -   This provide platform as a service.
--   Provide runtime & tool set that is required to run our application.
+-   Provide runtime & tool set that is required to run, develop, test our application.
 -   Runs on top of infrastructure.
 
-### SaaS
+#### SaaS
 
 -   SaaS provides you a complete product that run/managed by service providers.
+
+![difference between iaas, paas, saas](imgs/iaas%20vs%20paas%20vs%20saas.avif)
 
 #### BaaS
 
@@ -47,10 +51,10 @@
 -   When you need to store a functionality in cloud.
 -   eg: when user uploads a document send a notification.
 
-## Cloud deployment models:
+### 1.2 Cloud deployment models:
 
-### Private Cloud
+#### Private Cloud
 
-### Public Cloud
+#### Public Cloud
 
 ### Hybrid Cloud
