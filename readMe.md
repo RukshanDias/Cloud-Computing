@@ -27,18 +27,24 @@
 -   This provide infrastructures as a service.
 -   infrastructures are virtual machine, Storage, cpu. gpu, memory, load balancing, network, disk, etc.
 -   This is the base of cloud-computing.
+-   users: IT admins
 
 #### PaaS
 
 -   This provide platform as a service.
 -   Provide runtime & tool set that is required to run, develop, test our application.
 -   Runs on top of infrastructure.
+-   users: Software developers
 
 #### SaaS
 
 -   SaaS provides you a complete product that run/managed by service providers.
+-   pay-as-you-go pricing model.
+-   users: End customers
 
 ![difference between iaas, paas, saas](imgs/iaas%20vs%20paas%20vs%20saas.avif)
+
+-   [difference between IaaS, PaaS, SaaS with example of Cake](https://youtu.be/64-1ymY2xaw?t=1723)
 
 #### BaaS
 
