@@ -53,8 +53,17 @@
 
 ### 1.2 Cloud deployment models:
 
-#### Private Cloud
-
 #### Public Cloud
 
+-   These can be access publicly over the internet.
+-   eg: AWS, Azure
+
+#### Private Cloud
+
+-   These can be access privately within an organization.
+-   eg: AWS, VMware
+
 ### Hybrid Cloud
+
+-   Consists the functionality of both public & private.
+-   eg: NASA use private cloud to store sensitive info & public cloud for others.
