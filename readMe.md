@@ -19,3 +19,32 @@
         -   Serverless
         -   etc.
 -   ![Cloud service models](imgs/Cloud%20service%20models.png)
+
+### IaaS
+
+-   This provide infrastructures as a service.
+-   infrastructures are virtual machine, Storage, cpu. gpu, memory, load balancing, network, disk, etc.
+-   This is the base of cloud-computing.
+
+### PaaS
+
+-   This provide platform as a service.
+-   Provide runtime & tool set that is required to run our application.
+-   Runs on top of infrastructure.
+
+### SaaS
+
+-   SaaS provides you a complete product that run/managed by service providers.
+
+#### BaaS
+
+-   No need to write backend from scratch. Just have to link our front-end to this service.
+-   This will provide all backend services like, DB, purchasing, notifications, authentications, etc.
+-   eg: Firebase
+
+#### FaaS
+
+-   When you need to store a functionality in cloud.
+-   eg: when user uploads a document send a notification.
+
+
