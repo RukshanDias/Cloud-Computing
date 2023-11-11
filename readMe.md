@@ -47,4 +47,10 @@
 -   When you need to store a functionality in cloud.
 -   eg: when user uploads a document send a notification.
 
+## Cloud deployment models:
 
+### Private Cloud
+
+### Public Cloud
+
+### Hybrid Cloud
