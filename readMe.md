@@ -73,3 +73,7 @@
 
 -   Consists the functionality of both public & private.
 -   eg: NASA use private cloud to store sensitive info & public cloud for others.
+
+## 2. Cloud computing architecture
+
+-   ![cloud architecture](imgs/cloud%20architecture.png)
