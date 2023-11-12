@@ -82,3 +82,24 @@
 ## 2. Cloud computing architecture
 
 -   ![cloud architecture](imgs/cloud%20architecture.png)
+
+## 3. Cloud advantages vs disadvantages
+
+### Advantages
+
+-   **Low cost**
+    -   On premises servers will cost more.
+    -   No need to hire server admins.
+-   **Unlimited resources**
+    -   Have unlimited storage.
+    -   pay-as-you-go method
+-   **Pay for the use**
+-   **Global level collaboration**
+    -   Can login to servers from anywhere.
+    -   Customer support.
+
+### Disadvantages
+
+-   Can be less customized.
+-   Security issue: _depends_
+-   Need good internet connection
